@@ -112,3 +112,6 @@ Execute the program
 
 # OUPUT
 ![time table for web ex - 03](https://user-images.githubusercontent.com/120718823/234336265-9bb2b1bb-7821-4c1d-b91a-8ace976fe344.png)
+
+# RESULT
+Thus the to Write a html webpage page to display your timetable has been created.
